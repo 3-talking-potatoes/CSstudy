@@ -1,4 +1,4 @@
-# null과 undefined, undeclared의 차이점은 무엇인가요?
+# null, undefined, undeclared
 
 <br/>
 
