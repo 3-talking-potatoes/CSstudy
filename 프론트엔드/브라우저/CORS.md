@@ -65,18 +65,13 @@ URL의 속성 중 출처에 해당되는 3가지 속성 모두 일치해야 동�
 
 > 예비요청(Preflight Request), 단순 요청(Simple Request), 인증된 요청(Credentialed Request)
 
-1. 예비요청(Preflight Request)
-   <br/>
+1. 예비요청(Preflight Request)  
    브라우저에서 요청 시 예비 요청을 보내고 본 요청을 보내는 방법. 이 때 브라우저가 예비요청을 보내는 것을 Preflight라고 부르며 HTTP 메소드로 OPTIONS이 사용된다.
 
-2. 단순 요청(Simple Request)
-   <br/>
+2. 단순 요청(Simple Request)  
    예비 요청을 생략하고 서버로 바로 본 요청을 보내는 방법. 서버가 응답 헤더로 Access-Control-Allow-Origin 헤더를 보내주면 브라우저에서 CORS정책 위반 여부 검사하는 방식. 특정 조건을 만족하는 경우에만 예비 요청 생략 가능
 
-3. 인증된 요청(Credentialed Request)
-   <br/>
-   클라이언트에서 서버로 Credential(자격 인증 정보)를 실어 요청할 때 사용
-   <br/>
-   Credential : 세션 ID가 저장된 쿠키, Authorization 헤더에 설정하는 토큰 등등
-   <br/>
+3. 인증된 요청(Credentialed Request)  
+   클라이언트에서 서버로 Credential(자격 인증 정보)를 실어 요청할 때 사용  
+   Credential : 세션 ID가 저장된 쿠키, Authorization 헤더에 설정하는 토큰 등등  
    이 때 서버에서 응답 헤더의 Access-Control-Allow-Origin 값에 와일드카드 문자를 사용할 수 없으며, Access-Control-Allow-Credentials 항목을 true로 설정해줘야 한다.
