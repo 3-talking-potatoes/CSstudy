@@ -19,28 +19,28 @@
 
 - [웹 표준 및 웹 접근성⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/HTML/%EC%9B%B9%20%ED%91%9C%EC%A4%80%20%EB%B0%8F%20%EC%9B%B9%20%EC%A0%91%EA%B7%BC%EC%84%B1.md)
 - [DOCTYPE⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/HTML/DOCTYPE.md)
-- [SVG⚡️]
+- [SVG⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/HTML/SVG.md)
 - [쿠키, 세션스토리지, 로컬스토리지](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/HTML/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98%26%EB%A1%9C%EC%BB%AC%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80.md)
-- [UI]
+- [UI](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/HTML/UI.md)
 - [다국어 페이지](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/HTML/%EB%8B%A4%EA%B5%AD%EC%96%B4%20%ED%8E%98%EC%9D%B4%EC%A7%80.md)
-- [이미지 크기]
+- [이미지 크기](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/HTML/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%81%AC%EA%B8%B0.md)
 - [프로그레시브 렌더링(Progressive Rendering)](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/HTML/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A0%88%EC%8B%9C%EB%B8%8C%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 
 ## CSS
 
-- [CSS 적용 우선순위⚡️⚡️]
+- [CSS 적용 우선순위⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/CSS%20%EC%A0%81%EC%9A%A9%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md)
 - [단위⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EB%8B%A8%EC%9C%84.md)
-- [CSS 전처리기⚡️]
+- [CSS 전처리기⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/CSS%20%EC%A0%84%EC%B2%98%EB%A6%AC%EA%B8%B0.md)
 - [CSS-in-JS⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/CSS-in-JS.md)
 - [Flexbox & Grid⚡️]
 - [display⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/display.md)
-- [padding vs margin⚡️]
+- [padding vs margin⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/padding%20vs%20margin.md)
 - [반응형 웹 vs 적응형 웹⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9%20vs%20%EC%A0%81%EC%9D%91%ED%98%95%20%EC%9B%B9.md)
-- [반응형 웹의 3요소⚡️]
+- [반응형 웹의 3요소⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9.md)
 - [position⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/position.md)
-- [float⚡️]
+- [float⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/float%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
 - [이미지 태그를 스타일로 대체하는 법⚡️]
-- [CSS selector]
+- [CSS selector](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/CSS%20selector.md)
 - [box model]
 - [class vs id]
 - [font]
