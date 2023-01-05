@@ -47,12 +47,20 @@
 ## 코드 예시
 
 ```javascript
-function search(arr, x) {
-  for (let i = 0; i < arr.length; i++) {
-    if (arr[i] === x) return i;
+function linearSearch(array, target) {
+  for (let i = 0; i < array.length; i++) {
+    if (array[i] === target) {
+      return i;
+    }
   }
   return -1;
 }
+
+// 실행
+
+const array = [1, 2, 3, 4, 5];
+console.log(linearSearch(array, 3)); // Output: 2
+console.log(linearSearch(array, 7)); // Output: -1
 ```
 
 <br/>
@@ -60,17 +68,21 @@ function search(arr, x) {
 재귀적 접근법
 
 ```javascript
-let linearSearch = (arr, size, x) => {
-  if (size === 0) {
+function linearSearch(array, target, index = 0) {
+  if (index >= array.length) {
     return -1;
-  } else if (arr[size - 1] === x) {
-    // 찾아낸 x의 인덱스값을 반환한다.
-    return size - 1;
-  } else {
-    let answer = linearSearch(arr, size - 1, x);
-    return answer;
   }
-};
+  if (array[index] === target) {
+    return index;
+  }
+  return linearSearch(array, target, index + 1);
+}
+
+// 실행
+
+const array = [1, 2, 3, 4, 5];
+console.log(linearSearch(array, 3)); // Output: 2
+console.log(linearSearch(array, 7)); // Output: -1
 ```
 
 <br/>

@@ -100,6 +100,8 @@ class Queue {
   }
 }
 
+// 실행
+
 const queue = new Queue(3);
 queue.enqueue(1);
 queue.enqueue(2);
