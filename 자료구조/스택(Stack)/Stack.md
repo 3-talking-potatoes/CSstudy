@@ -60,7 +60,7 @@ var top = array.length - 1;
 var MAX = 1000;
 var array = Array(MAX).fill(0); // Maximum size of Stack
 
-// isEmpry()
+// isEmpty()
 function isEmpty() {
   return top < 0;
 }
