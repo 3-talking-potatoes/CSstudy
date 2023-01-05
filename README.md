@@ -134,8 +134,8 @@
 ## 자료구조
 
 - [배열(Array)]
-- [스택(Stack)⚡]
-- [큐(Queue)⚡]
+- [스택(Stack)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D(Stack)/Stack.md>)
+- [큐(Queue)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%81%90(Queue)/Queue.md>)
 - [해시 테이블(Hash Table)⚡]
 - [연결 리스트(Linked List)⚡]
 - [이중 연결 리스트(Doubly Linked List)]
@@ -201,8 +201,8 @@
 
 - [빅 오 표기법(Big-O notation)]
 - [순차 탐색(Sequential Search)]
-- [이진 탐색(Binary Search)⚡]
-- [선형 탐색(Linear Search)]
+- [이진 탐색(Binary Search)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89(Binary%20Search)/Binary%20Search.md>)
+- [선형 탐색(Linear Search)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%84%A0%ED%98%95%20%ED%83%90%EC%83%89(Linear%20Search)/Linear%20Search.md>)
 - [해시 탐색(Hash Search)]
 - [버블 정렬(Bubble Sort)]
 - [선택 정렬(Selection Sort)]
