@@ -2,6 +2,8 @@
 
 <br/>
 
+![이미지](https://user-images.githubusercontent.com/93918946/210717745-f5bfe8ce-30cf-44cf-ae67-15d7894a9b93.PNG)
+
 ### padding과 margin의 차이가 무엇인가요?⚡️
 
 margin은 해당 요소와 외부 요소 및 화면과의 여백(외부 여백)을 의미하며,  
