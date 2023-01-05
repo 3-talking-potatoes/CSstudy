@@ -1,10 +1,29 @@
 # CSstudy
 
-## 목차
+## 팀원
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tbody> 
+    <tr>
+      <td align="center"><a href="https://github.com/ichenny"><img src="https://avatars.githubusercontent.com/u/102204957?v=4" width="200px;" alt=""/><br /><sub><b>Chae-Eun Lee</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=ichenny" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3Aichenny" title="Pull Requests">🥔</a></td>      
+      <td align="center"><a href="https://github.com/z1zonemoi"><img src="https://avatars.githubusercontent.com/u/107454269?v=4" width="200px;" alt=""/><br /><sub><b>
+yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=z1zonemoi" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3Az1zonemoi" title="Pull Requests">🥔</a></td>
+      <td align="center"><a href="https://github.com/94sssh"><img src="https://avatars.githubusercontent.com/u/93918946?v=4" width="200px;" alt=""/><br /><sub><b>SeungHo Han</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=94sssh" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3A94sssh" title="Pull Requests">🥔</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <br>
 
-## 프론트엔드
+# 프론트엔드
 
 ## 브라우저
 
