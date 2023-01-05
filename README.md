@@ -41,15 +41,15 @@
 - [float⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/float%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
 - [이미지 태그를 스타일로 대체하는 법⚡️]
 - [CSS selector](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/CSS%20selector.md)
-- [box model]
+- [box model](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/box%20model.md)
 - [class vs id]
-- [font]
+- [font](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/font.md)
 - [애니메이션]
-- [클리어링(Clearing)]
+- [클리어링(Clearing)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%ED%81%B4%EB%A6%AC%EC%96%B4%EB%A7%81(Clearing).md>)
 
 ## JavaScript
 
-- [자바스크립트⚡️]
+- [자바스크립트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md)
 - [strict mode⚡️]
 - [변수⚡️⚡️⚡️⚡️]
 - [데이터 타입⚡️]
