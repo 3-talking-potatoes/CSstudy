@@ -55,39 +55,54 @@
 - 스택의 전체 크기는 사전에 정의되어야 한다.
 
 ```javascript
-// pointer
-var top = array.length - 1;
-var MAX = 1000;
-var array = Array(MAX).fill(0); // Maximum size of Stack
+const stack = [];
 
-// isEmpty()
-function isEmpty() {
-  return top < 0;
-}
-
-// push()
-function push(x) {
-  if (top >= MAX - 1) {
-    // Stack Overflow 스택이 가득 찬 상태
-    return false;
-  } else {
-    top += 1;
-    array[top] = x;
-    return true;
+function push(item) {
+  // 스택이 가득 찼는지 확인
+  if (stack.length === size) {
+    console.log('Stack is full');
+    return;
   }
+
+  stack.push(item);
 }
 
-// pop()
 function pop() {
-  if (top < 0) {
-    // Stack Underflow 스택이 비어있는 상태
-    return null;
-  } else {
-    let x = array[top];
-    top -= 1;
-    return x;
+  // 스택이 비어있는지 확인
+  if (stack.length === 0) {
+    console.log('Stack is empty');
+    return;
   }
+
+  return stack.pop();
 }
+
+function peek() {
+  // 스택이 비어있는지 확인
+  if (stack.length === 0) {
+    console.log('Stack is empty');
+    return;
+  }
+
+  return stack[stack.length - 1];
+}
+
+function isEmpty() {
+  return stack.length === 0;
+}
+
+// 실행
+
+push(1);
+push(2);
+
+console.log(peek()); // Output: 2
+console.log(isEmpty()); // Output: false
+
+pop();
+pop();
+
+console.log(isEmpty()); // Output: true
 ```
 
 <br/>
@@ -96,26 +111,57 @@ function pop() {
 
 ```javascript
 class Stack {
-  constructor() {
-    this.stack = [];
+  constructor(size) {
+    this.stack = new Array(size);
+    this.top = -1;
   }
 
   push(item) {
-    this.stack.push(item);
+    // 스택이 가득 찼는지 확인
+    if (this.top === this.stack.length - 1) {
+      console.log('Stack is full');
+      return;
+    }
+
+    this.stack[++this.top] = item;
   }
 
   pop() {
-    return this.stack.pop();
+    // 스택이 비어있는지 확인
+    if (this.top === -1) {
+      console.log('Stack is empty');
+      return;
+    }
+
+    return this.stack[this.top--];
   }
 
   peek() {
-    return this.stack[this.stack.length - 1];
+    // 스택이 비어있는지 확인
+    if (this.top === -1) {
+      console.log('Stack is empty');
+      return;
+    }
+
+    return this.stack[this.top];
   }
 
   isEmpty() {
-    return this.stack.length === 0;
+    return this.top === -1;
   }
 }
+
+// 실행
+
+const stack = new Stack(5);
+stack.push(1);
+stack.push(2);
+stack.push(3);
+
+console.log(stack.pop()); // Output: 3
+console.log(stack.pop()); // Output: 2
+console.log(stack.pop()); // Output: 1
+console.log(stack.pop()); // Output: "Stack is empty"
 ```
 
 <br/>
@@ -173,6 +219,8 @@ class Stack {
     return this.top === null;
   }
 }
+
+// 실행
 
 const stack = new Stack();
 stack.push(1);

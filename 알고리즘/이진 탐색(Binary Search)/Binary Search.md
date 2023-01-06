@@ -53,27 +53,26 @@
 이진 탐색의 재귀 구현
 
 ```javascript
-function binarySearch(arr, low, high, x) {
-  if (high >= low) {
-    let mid = low + Math.floor((high - low) / 2);
-
-    // 찾는 요소가 중간 요소에 있는 경우
-    if (arr[mid] == x) {
-      return mid;
-    }
-
-    // 찾는 요소가 중간 요소보다 작은 경우, 왼쪽 서브 배열에서만 있을 수 있다.
-    if (arr[mid] > x) {
-      return binarySearch(arr, low, mid - 1, x);
-    }
-
-    // 그렇지 않으면 값은 오른쪽 서브배열에서만 있을 수 있다.
-    return binarySearch(arr, mid + 1, high, x);
+function binarySearch(array, target, low = 0, high = array.length - 1) {
+  if (low > high) {
+    return -1;
   }
 
-  // 요소가 배열에 없을 경우
-  return -1;
+  const mid = Math.floor((low + high) / 2);
+  if (array[mid] === target) {
+    return mid;
+  } else if (array[mid] < target) {
+    return binarySearch(array, target, mid + 1, high);
+  } else {
+    return binarySearch(array, target, low, mid - 1);
+  }
 }
+
+// 실행
+
+const array = [1, 2, 3, 4, 5];
+console.log(binarySearch(array, 3)); // Output: 2
+console.log(binarySearch(array, 7)); // Output: -1
 ```
 
 <br/>
@@ -81,29 +80,29 @@ function binarySearch(arr, low, high, x) {
 반복 구현
 
 ```javascript
-function binarySearch(arr, x) {
+function binarySearch(array, target) {
   let low = 0;
-  let high = arr.length - 1;
-  let mid;
-  while (high >= low) {
-    mid = low + Math.floor((high - low) / 2);
+  let high = array.length - 1;
 
-    // 찾는 요소가 중간 요소에 있는 경우
-    if (arr[mid] == x) {
+  while (low <= high) {
+    const mid = low + Math.floor((high - low) / 2);
+    if (array[mid] === target) {
       return mid;
-    }
-
-    // 찾는 요소가 중간 요소보다 작은 경우, 왼쪽 서브 배열에서만 있을 수 있다.
-    if (arr[mid] > x) {
+    } else if (array[mid] < target) {
+      low = mid + 1;
+    } else {
       high = mid - 1;
     }
-    // 그렇지 않으면 값은 오른쪽 서브배열에서만 있을 수 있다.
-    else low = mid + 1;
   }
 
-  // 요소가 배열에 없을 경우
   return -1;
 }
+
+// 실행
+
+const array = [1, 2, 3, 4, 5];
+console.log(binarySearch(array, 3)); // Output: 2
+console.log(binarySearch(array, 7)); // Output: -1
 ```
 
 <br/>
