@@ -19,6 +19,7 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <br>
@@ -58,18 +59,18 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [반응형 웹의 3요소⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9.md)
 - [position⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/position.md)
 - [float⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/float%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
-- [이미지 태그를 스타일로 대체하는 법⚡️]
+- [이미지 태그를 스타일로 대체하는 법⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EC%9D%B4%EB%AF%B8%EC%A7%80.md)
 - [CSS selector](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/CSS%20selector.md)
 - [box model](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/box%20model.md)
-- [class vs id]
+- [class vs id](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/class%20vs%20id.md)
 - [font](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/font.md)
-- [애니메이션]
+- [애니메이션](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98.md)
 - [클리어링(Clearing)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%ED%81%B4%EB%A6%AC%EC%96%B4%EB%A7%81(Clearing).md>)
 
 ## JavaScript
 
 - [자바스크립트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md)
-- [strict mode⚡️]
+- [strict mode⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/strict%20mode.md)
 - [변수⚡️⚡️⚡️⚡️]
 - [데이터 타입⚡️]
 - [함수⚡️]
