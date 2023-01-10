@@ -71,7 +71,12 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 
 - [자바스크립트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md)
 - [strict mode⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/strict%20mode.md)
-- [변수⚡️⚡️⚡️⚡️]
+- [변수⚡️⚡️⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/tree/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98)
+  - [리터럴](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
+  - [변수란](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98%EB%9E%80.md)
+  - [식별자](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/%EC%8B%9D%EB%B3%84%EC%9E%90.md)
+  - [호이스팅](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
+  - [const & let & var](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/const%20%26%20let%20%26%20var.md)
 - [데이터 타입⚡️]
 - [함수⚡️]
 - [화살표 함수⚡️]
