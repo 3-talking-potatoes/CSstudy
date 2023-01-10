@@ -9,10 +9,10 @@
 <table>
   <tbody> 
     <tr>
-      <td align="center"><a href="https://github.com/ichenny"><img src="https://avatars.githubusercontent.com/u/102204957?v=4" width="200px;" alt=""/><br /><sub><b>Chae-Eun Lee</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=ichenny" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3Aichenny" title="Pull Requests">🥔</a></td>      
-      <td align="center"><a href="https://github.com/z1zonemoi"><img src="https://user-images.githubusercontent.com/93918946/211461694-4b1d7be2-7c8c-4004-a600-8d74da872197.png" width="200px;" alt=""/><br /><sub><b>
+      <td align="center"><a href="https://github.com/ichenny"><img src="https://user-images.githubusercontent.com/93918946/211472099-7d5ce10e-6021-4a52-833d-eaa132e9cc5a.png" width="200px;" alt=""/><br /><sub><b>Chae-Eun Lee</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=ichenny" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3Aichenny" title="Pull Requests">🥔</a></td>      
+      <td align="center"><a href="https://github.com/z1zonemoi"><img src="https://user-images.githubusercontent.com/93918946/211472095-0bd46475-5940-4922-b8d2-797e72da2c9d.png" width="200px;" alt=""/><br /><sub><b>
 yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=z1zonemoi" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3Az1zonemoi" title="Pull Requests">🥔</a></td>
-      <td align="center"><a href="https://github.com/94sssh"><img src="https://user-images.githubusercontent.com/93918946/211466609-530b2bb7-1b35-47b9-ac9b-9d04faf46508.png" width="200px;" alt=""/><br /><sub><b>SeungHo Han</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=94sssh" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3A94sssh" title="Pull Requests">🥔</a></td>
+      <td align="center"><a href="https://github.com/94sssh"><img src="https://user-images.githubusercontent.com/93918946/211472098-7699059d-f9ab-4be8-aa83-3f6c4c5bbbf0.png" width="200px;" alt=""/><br /><sub><b>SeungHo Han</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=94sssh" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3A94sssh" title="Pull Requests">🥔</a></td>
     </tr>
   </tbody>
 </table>
