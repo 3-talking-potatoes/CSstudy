@@ -183,6 +183,7 @@
 ## 네트워크
 
 - [네트워크 기초]
+- [주소 창에 google.com을 검색하면 일어나는 일]
 - [IP]
 - [TCP/IP]
 - [대칭키 vs 공개키]
@@ -207,8 +208,8 @@
 - [버블 정렬(Bubble Sort)]
 - [선택 정렬(Selection Sort)]
 - [삽입 정렬(Insertion Sort)]
-- [퀵 정렬(Quick Sort)⚡]
 - [합병 정렬(Merge Sort)⚡]
+- [퀵 정렬(Quick Sort)⚡]
 - [힙 정렬(Heap Sort)]
 - [셸 정렬(Shell Sort)]
 - [기수 정렬(Radix Sort)]
