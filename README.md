@@ -1,10 +1,30 @@
 # CSstudy
 
-## 목차
+## 팀원
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tbody> 
+    <tr>
+      <td align="center"><a href="https://github.com/ichenny"><img src="https://user-images.githubusercontent.com/93918946/211472099-7d5ce10e-6021-4a52-833d-eaa132e9cc5a.png" width="200px;" alt=""/><br /><sub><b>Chae-Eun Lee</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=ichenny" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3Aichenny" title="Pull Requests">🥔</a></td>      
+      <td align="center"><a href="https://github.com/z1zonemoi"><img src="https://user-images.githubusercontent.com/93918946/211472095-0bd46475-5940-4922-b8d2-797e72da2c9d.png" width="200px;" alt=""/><br /><sub><b>
+yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=z1zonemoi" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3Az1zonemoi" title="Pull Requests">🥔</a></td>
+      <td align="center"><a href="https://github.com/94sssh"><img src="https://user-images.githubusercontent.com/93918946/211472098-7699059d-f9ab-4be8-aa83-3f6c4c5bbbf0.png" width="200px;" alt=""/><br /><sub><b>SeungHo Han</b></sub></a><br /><a href="https://github.com/github.com/3-talking-potatoes/commits?author=94sssh" title="Documentation">🐬</a> <a href="https://github.com/github.com/3-talking-potatoes/pulls?q=is%3Apr+author%3A94sssh" title="Pull Requests">🥔</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <br>
 
-## 프론트엔드
+# 프론트엔드
 
 ## 브라우저
 
@@ -39,19 +59,24 @@
 - [반응형 웹의 3요소⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9.md)
 - [position⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/position.md)
 - [float⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/float%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC.md)
-- [이미지 태그를 스타일로 대체하는 법⚡️]
+- [이미지 태그를 스타일로 대체하는 법⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EC%9D%B4%EB%AF%B8%EC%A7%80.md)
 - [CSS selector](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/CSS%20selector.md)
-- [box model]
-- [class vs id]
-- [font]
-- [애니메이션]
-- [클리어링(Clearing)]
+- [box model](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/box%20model.md)
+- [class vs id](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/class%20vs%20id.md)
+- [font](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/font.md)
+- [애니메이션](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98.md)
+- [클리어링(Clearing)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/CSS/%ED%81%B4%EB%A6%AC%EC%96%B4%EB%A7%81(Clearing).md>)
 
 ## JavaScript
 
-- [자바스크립트⚡️]
-- [strict mode⚡️]
-- [변수⚡️⚡️⚡️⚡️]
+- [자바스크립트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8.md)
+- [strict mode⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/strict%20mode.md)
+- [변수⚡️⚡️⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/tree/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98)
+  - [리터럴](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
+  - [변수란](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98%EB%9E%80.md)
+  - [식별자](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/%EC%8B%9D%EB%B3%84%EC%9E%90.md)
+  - [호이스팅](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
+  - [const & let & var](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B3%80%EC%88%98/const%20%26%20let%20%26%20var.md)
 - [데이터 타입⚡️]
 - [함수⚡️]
 - [화살표 함수⚡️]
