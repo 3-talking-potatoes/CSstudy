@@ -85,9 +85,9 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [클로저⚡️⚡️⚡️]
 - [템플릿 리터럴⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%85%9C%ED%94%8C%EB%A6%BF%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
 - [디버깅]
-- [원시 값 vs 객체⚡️]
+- [원시 값 vs 객체⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9B%90%EC%8B%9C%20%EA%B0%92%20vs%20%EA%B0%9D%EC%B2%B4.md)
 - [객체 리터럴⚡️]
-- [생성자 함수 객체 생성⚡️]
+- [생성자 함수 객체 생성⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1.md)
 - [this⚡️]
 - [빌트인 객체⚡️]
 - [스프레드 문법⚡️]
@@ -233,8 +233,8 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [버블 정렬(Bubble Sort)]
 - [선택 정렬(Selection Sort)]
 - [삽입 정렬(Insertion Sort)]
-- [합병 정렬(Merge Sort)⚡]
-- [퀵 정렬(Quick Sort)⚡]
+- [합병 정렬(Merge Sort)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC(Merge%20Sort)/Merge%20Sort.md>)
+- [퀵 정렬(Quick Sort)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort)/Quick%20Sort.md>)
 - [힙 정렬(Heap Sort)]
 - [셸 정렬(Shell Sort)]
 - [기수 정렬(Radix Sort)]
