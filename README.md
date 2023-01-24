@@ -158,16 +158,16 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 
 ## 자료구조
 
-- [배열(Array)]
-- [스택(Stack)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D(Stack)/Stack.md>)
-- [큐(Queue)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%81%90(Queue)/Queue.md>)
-- [해시 테이블(Hash Table)⚡]
-- [연결 리스트(Linked List)⚡]
+- [배열(Array)⚡⚡]
+- [스택(Stack)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D(Stack)/Stack.md>)
+- [큐(Queue)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%81%90(Queue)/Queue.md>)
+- [해시 테이블(Hash Table)⚡⚡]
+- [연결 리스트(Linked List)⚡⚡]
 - [이중 연결 리스트(Doubly Linked List)]
-- [힙(Heap)⚡]
+- [힙(Heap)⚡⚡]
 - [우선순위 큐(Priority Queue)]
-- [트라이(Trie)⚡]
-- [그래프(Graph)]
+- [트라이(Trie)⚡⚡]
+- [그래프(Graph)⚡⚡]
 - [행렬(Matrix)]
 - [이진 트리(Binary tree)]
 - [이진탐색트리(Binary Search Tree)]
@@ -226,27 +226,26 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 ## 알고리즘
 
 - [빅 오 표기법(Big-O notation)]
-- [순차 탐색(Sequential Search)]
-- [이진 탐색(Binary Search)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89(Binary%20Search)/Binary%20Search.md>)
 - [선형 탐색(Linear Search)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%84%A0%ED%98%95%20%ED%83%90%EC%83%89(Linear%20Search)/Linear%20Search.md>)
+- [이진 탐색(Binary Search)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89(Binary%20Search)/Binary%20Search.md>)
 - [해시 탐색(Hash Search)]
-- [버블 정렬(Bubble Sort)]
-- [선택 정렬(Selection Sort)]
-- [삽입 정렬(Insertion Sort)]
-- [합병 정렬(Merge Sort)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC(Merge%20Sort)/Merge%20Sort.md>)
-- [퀵 정렬(Quick Sort)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort)/Quick%20Sort.md>)
-- [힙 정렬(Heap Sort)]
+- [버블 정렬(Bubble Sort)⚡]
+- [선택 정렬(Selection Sort)⚡]
+- [삽입 정렬(Insertion Sort)⚡]
+- [합병 정렬(Merge Sort)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC(Merge%20Sort)/Merge%20Sort.md>)
+- [퀵 정렬(Quick Sort)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort)/Quick%20Sort.md>)
+- [힙 정렬(Heap Sort)⚡]
 - [셸 정렬(Shell Sort)]
 - [기수 정렬(Radix Sort)]
 - [계수 정렬(Counting Sort)]
-- [재귀(Recursion)⚡]
+- [재귀(Recursion)⚡⚡]
 - [순열과 조합]
-- [동적 계획법(DP, Dynamic Programming)⚡]
+- [동적 계획법(DP, Dynamic Programming)⚡⚡]
 - [분할 정복(Divide and Conquer)]
 - [퀵 셀렉트(Quick Select)]
 - [위상 정렬(Topological Sort)]
-- [BFS(너비 우선 탐색)⚡]
-- [DFS(깊이 우선 탐색)⚡]
+- [BFS(너비 우선 탐색)⚡⚡]
+- [DFS(깊이 우선 탐색)⚡⚡]
 - [데이크스트라 알고리즘(Dijkstra algorithm)]
 - [탐욕 알고리즘(Greedy Algorithm)]
 - [유클리트 호제법(최대공약수 GCD, 최소공배수 LCM)]
