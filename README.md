@@ -89,13 +89,13 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [객체 리터럴⚡️]
 - [생성자 함수 객체 생성⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1.md)
 - [this⚡️]
-- [빌트인 객체⚡️]
+- [빌트인 객체⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4.md)
 - [스프레드 문법⚡️]
-- [배열⚡️]
+- [배열⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B0%B0%EC%97%B4.md)
 - [구조 분해 할당⚡️]
-- [반복]
+- [반복](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B0%98%EB%B3%B5.md)
 - [고차함수⚡️]
-- [.call vs .apply]
+- [.call vs .apply](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/.call%20vs%20.apply.md)
 - [타이머⚡️]
 - [함수와 일급객체⚡️⚡️]
 - [Function.prototype.bind]
@@ -229,9 +229,9 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [선형 탐색(Linear Search)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%84%A0%ED%98%95%20%ED%83%90%EC%83%89(Linear%20Search)/Linear%20Search.md>)
 - [이진 탐색(Binary Search)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89(Binary%20Search)/Binary%20Search.md>)
 - [해시 탐색(Hash Search)]
-- [버블 정렬(Bubble Sort)⚡]
-- [선택 정렬(Selection Sort)⚡]
-- [삽입 정렬(Insertion Sort)⚡]
+- [버블 정렬(Bubble Sort)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC(Bubble%20Sort)/Bubble%20Sort.md>)
+- [선택 정렬(Selection Sort)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort)/Selection%20Sort.md>)
+- [삽입 정렬(Insertion Sort)⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insertion%20Sort)/Insertion%20Sort.md>)
 - [합병 정렬(Merge Sort)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%A9%EB%B3%91%20%EC%A0%95%EB%A0%AC(Merge%20Sort)/Merge%20Sort.md>)
 - [퀵 정렬(Quick Sort)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort)/Quick%20Sort.md>)
 - [힙 정렬(Heap Sort)⚡]
