@@ -2,7 +2,7 @@
 
 <br>
 
-### 선형 탐색(Linear Search)
+### 선형 탐색(Linear Search), 순차 탐색(Sequential Search)
 
 > 선형 탐색은 한쪽 끝에서 시작하여 원하는 요소를 찾을 때까지 목록의 각 요소를 통과하는 순차적 검색 알고리즘이다.
 
