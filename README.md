@@ -86,9 +86,9 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [템플릿 리터럴⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%85%9C%ED%94%8C%EB%A6%BF%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
 - [디버깅](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%94%94%EB%B2%84%EA%B9%85.md)
 - [원시 값 vs 객체⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9B%90%EC%8B%9C%20%EA%B0%92%20vs%20%EA%B0%9D%EC%B2%B4.md)
-- [객체 리터럴⚡️]
+- [객체 리터럴⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
 - [생성자 함수 객체 생성⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1.md)
-- [this⚡️]
+- [this⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/this.md)
 - [빌트인 객체⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4.md)
 - [스프레드 문법⚡️]
 - [배열⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B0%B0%EC%97%B4.md)
