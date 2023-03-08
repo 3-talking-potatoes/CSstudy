@@ -94,11 +94,11 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [배열⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B0%B0%EC%97%B4.md)
 - [구조 분해 할당⚡️]
 - [반복](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B0%98%EB%B3%B5.md)
-- [고차함수⚡️]
+- [고차함수⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98.md)
 - [.call vs .apply](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/.call%20vs%20.apply.md)
-- [타이머⚡️]
-- [함수와 일급객체⚡️⚡️]
-- [Function.prototype.bind]
+- [타이머⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%83%80%EC%9D%B4%EB%A8%B8.md)
+- [함수와 일급객체⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%95%A8%EC%88%98%EC%99%80%20%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4.md)
+- [Function.prototype.bind](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Function.prototype.bind.md)
 - [프로토타입⚡️]
 - [attribute vs property]
 - [클래스]
