@@ -101,8 +101,8 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [Function.prototype.bind](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Function.prototype.bind.md)
 - [프로토타입⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
 - [attribute vs property]
-- [클래스]
-- [클래스 vs 함수 생성자⚡️]
+- [클래스](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
+- [클래스 vs 함수 생성자⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%81%B4%EB%9E%98%EC%8A%A4%20vs%20%ED%95%A8%EC%88%98%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
 - [에러⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%97%90%EB%9F%AC.md)
 - [Promise⚡️⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Promise.md)
 - [비동기 프로그래밍⚡️⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
