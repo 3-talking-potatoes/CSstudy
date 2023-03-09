@@ -112,7 +112,6 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [파일 간에 공유]
 - [curry 함수]
 - [실행 컨텍스트⚡️]
-- [이벤트 루프⚡️]
 - [이벤트⚡️]
 - [document load vs document DOMContentLoaded]
 - [load event]
