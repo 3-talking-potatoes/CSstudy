@@ -90,9 +90,9 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [생성자 함수 객체 생성⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1.md)
 - [this⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/this.md)
 - [빌트인 객체⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B9%8C%ED%8A%B8%EC%9D%B8%20%EA%B0%9D%EC%B2%B4.md)
-- [스프레드 문법⚡️]
+- [스프레드 문법⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C%20%EB%AC%B8%EB%B2%95.md)
 - [배열⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B0%B0%EC%97%B4.md)
-- [구조 분해 할당⚡️]
+- [구조 분해 할당⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EA%B5%AC%EC%A1%B0%20%EB%B6%84%ED%95%B4%20%ED%95%A0%EB%8B%B9.md)
 - [반복](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B0%98%EB%B3%B5.md)
 - [고차함수⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98.md)
 - [.call vs .apply](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/.call%20vs%20.apply.md)
