@@ -39,29 +39,51 @@
 ## 코드 예시
 
 ```javascript
+function quickSort(arr) {
+  if (arr.length <= 1) {
+    return arr;
+  }
+
+  const pivot = arr[0];
+  const leftArr = [];
+  const rightArr = [];
+
+  for (let i = 1; i < arr.length; i++) {
+    if (arr[i] < pivot) {
+      leftArr.push(arr[i]);
+    } else {
+      rightArr.push(arr[i]);
+    }
+  }
+
+  return [...quickSort(leftArr), pivot, ...quickSort(rightArr)];
+}
+```
+
+위 방법은 메모리 공간의 낭비가 발생해 in place 방법을 쓰기도 한다.
+특징으로는 추가적인 공간을 필요로 하지 않아 메모리 공간이 절약되나 중복값의 위치가 바뀔 수 있는 불안정(Unstable) 정렬이다.
+
+```javascript
 function quickSort(arr, left = 0, right = arr.length - 1) {
   if (left < right) {
-    let pivotIndex = pivot(arr, left, right);
-    // left
+    let pivotIndex = partition(arr, left, right);
     quickSort(arr, left, pivotIndex - 1);
-    // right
     quickSort(arr, pivotIndex + 1, right);
   }
   return arr;
 }
 
-function pivot(arr, start = 0, end = arr.length - 1) {
-  let pivot = arr[start];
-  let swapIdx = start;
-
-  for (let i = start + 1; i <= end; i++) {
-    if (pivot > arr[i]) {
-      swapIdx++;
-      [arr[swapIdx], arr[i]] = [arr[i], arr[swapIdx]];
+function partition(arr, left, right) {
+  const pivot = arr[right];
+  let i = left - 1;
+  for (let j = left; j < right; j++) {
+    if (arr[j] < pivot) {
+      i++;
+      [arr[i], arr[j]] = [arr[j], arr[i]];
     }
   }
-  [arr[start], arr[swapIdx]] = [arr[swapIdx], arr[start]];
-  return swapIdx;
+  [arr[i + 1], arr[right]] = [arr[right], arr[i + 1]];
+  return i + 1;
 }
 
 const list = [4, 6, 9, 1, 3, 2, 8];
