@@ -100,7 +100,7 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [함수와 일급객체⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%95%A8%EC%88%98%EC%99%80%20%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4.md)
 - [Function.prototype.bind](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Function.prototype.bind.md)
 - [프로토타입⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
-- [attribute vs property]
+- [attribute vs property](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/attribute%20vs%20property.md)
 - [클래스](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 - [클래스 vs 함수 생성자⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%81%B4%EB%9E%98%EC%8A%A4%20vs%20%ED%95%A8%EC%88%98%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
 - [에러⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%97%90%EB%9F%AC.md)
