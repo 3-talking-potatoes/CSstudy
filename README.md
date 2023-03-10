@@ -109,25 +109,17 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [Ajax⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Ajax.md)
 - [제너레이터 & async await⚡️]
 - [모듈⚡️]
-- [파일 간에 공유]
-- [curry 함수]
+- [커링]
 - [실행 컨텍스트⚡️]
 - [이벤트⚡️]
 - [document load vs document DOMContentLoaded]
-- [load event]
 - [익명함수(anonymous functions)]
-- [컴파일]
 - [타입변환 & 단축평가⚡️]
 - [프로그래밍⚡️]
-- [호스트 객체 vs 내장 객체]
+- [호스트 객체와 네이티브 객체]
 - [document.write]
 - [DOM⚡️]
 - [Rest API⚡️]
-- [SPA⚡️⚡️]
-- [템플릿]
-- [AMD vs CommonJs]
-- [Feature detection vs Feature inference vs UA String]
-- [Ternary expression]
 
 ## React
 
