@@ -111,14 +111,14 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [모듈⚡️]
 - [커링]
 - [실행 컨텍스트⚡️]
-- [이벤트⚡️]
+- [이벤트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
 - [document load vs document DOMContentLoaded]
 - [익명함수(anonymous functions)]
 - [타입변환 & 단축평가⚡️]
 - [프로그래밍⚡️]
 - [document.write]
-- [DOM⚡️]
-- [Rest API⚡️]
+- [DOM⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/DOM.md)
+- [Rest API⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Rest%20API.md)
 
 ## React
 
