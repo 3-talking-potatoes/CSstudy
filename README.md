@@ -116,7 +116,6 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [익명함수(anonymous functions)]
 - [타입변환 & 단축평가⚡️]
 - [프로그래밍⚡️]
-- [호스트 객체와 네이티브 객체]
 - [document.write]
 - [DOM⚡️]
 - [Rest API⚡️]
