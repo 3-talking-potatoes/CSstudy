@@ -107,10 +107,10 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [Promise⚡️⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Promise.md)
 - [비동기 프로그래밍⚡️⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%B9%84%EB%8F%99%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [Ajax⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Ajax.md)
-- [제너레이터 & async await⚡️]
-- [모듈⚡️]
-- [커링]
-- [실행 컨텍스트⚡️]
+- [제너레이터 & async await⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%20%26%20async%20await.md)
+- [모듈⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EB%AA%A8%EB%93%88.md)
+- [커링](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%BB%A4%EB%A7%81.md)
+- [실행 컨텍스트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [이벤트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
 - [document load vs document DOMContentLoaded]
 - [익명함수(anonymous functions)]
