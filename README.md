@@ -112,28 +112,26 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [커링](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%BB%A4%EB%A7%81.md)
 - [실행 컨텍스트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 - [이벤트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
-- [document load vs document DOMContentLoaded]
 - [익명함수(anonymous functions)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9D%B5%EB%AA%85%ED%95%A8%EC%88%98(anonymous%20functions).md>)
 - [타입변환 & 단축평가⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%20%26%20%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)
 - [컴파일러 VS 인터프리터⚡️]
-- [document.write]
 - [DOM⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/DOM.md)
 - [Rest API⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Rest%20API.md)
 
 ## React
 
-- [리액트⚡️⚡️]
-- [SPA⚡️]
-- [함수 컴포넌트 vs 클래스 컴포넌트⚡️]
-- [props & state⚡️]
-- [setState⚡️]
-- [라이프 사이클 메서드⚡️⚡️]
-- [이벤트 핸들링⚡️]
-- [리덕스⚡️⚡️]
+- [리액트⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%A6%AC%EC%95%A1%ED%8A%B8.md)
+- [SPA⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/SPA.md)
+- [함수 컴포넌트 vs 클래스 컴포넌트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%ED%95%A8%EC%88%98%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20vs%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
+- [props & state⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/props%20%26%20state.md)
+- [setState⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/setState.md)
+- [라이프 사이클 메서드⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%82%AC%EC%9D%B4%ED%81%B4%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [이벤트 핸들링⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%A7%81.md)
+- [리덕스⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%A6%AC%EB%8D%95%EC%8A%A4.md)
 - [FLUX⚡️⚡️]
 - [불변성⚡️⚡️]
 - [Hooks⚡️⚡️]
-- [성능개선]
+- [성능개선](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0.md)
 - [virtual DOM⚡️⚡️]
 - [SSR⚡️]
 - [Next⚡️]
@@ -157,7 +155,6 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [트라이(Trie)⚡⚡]
 - [그래프(Graph)⚡⚡]
 - [행렬(Matrix)]
-- [이진 트리(Binary tree)]
 - [이진탐색트리(Binary Search Tree)]
 
 ## 운영체제
