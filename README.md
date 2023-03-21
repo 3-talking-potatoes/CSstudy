@@ -148,8 +148,8 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [스택(Stack)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D(Stack)/Stack.md>)
 - [큐(Queue)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%81%90(Queue)/Queue.md>)
 - [해시 테이블(Hash Table)⚡⚡]
-- [연결 리스트(Linked List)⚡⚡]
-- [이중 연결 리스트(Doubly Linked List)]
+- [연결 리스트(Linked List)⚡⚡](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(Linked%20List)/LinkedList.md>)
+- [이중 연결 리스트(Doubly Linked List)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9D%B4%EC%A4%91%20%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8(Doubly%20Linked%20List)/DoublyLinkedList.md>)
 - [힙(Heap)⚡⚡]
 - [우선순위 큐(Priority Queue)]
 - [트라이(Trie)⚡⚡]
