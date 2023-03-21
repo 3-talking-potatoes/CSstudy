@@ -114,7 +114,7 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [이벤트⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
 - [익명함수(anonymous functions)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%9D%B5%EB%AA%85%ED%95%A8%EC%88%98(anonymous%20functions).md>)
 - [타입변환 & 단축평가⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%20%26%20%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)
-- [컴파일러 VS 인터프리터⚡️]
+- [컴파일러 VS 인터프리터⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%20vs%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0.md)
 - [DOM⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/DOM.md)
 - [Rest API⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/JavaScript/Rest%20API.md)
 
@@ -129,7 +129,7 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [이벤트 핸들링⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%A7%81.md)
 - [리덕스⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%A6%AC%EB%8D%95%EC%8A%A4.md)
 - [FLUX⚡️⚡️]
-- [불변성⚡️⚡️]
+- [불변성⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%B6%88%EB%B3%80%EC%84%B1.md)
 - [Hooks⚡️⚡️]
 - [성능개선](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0.md)
 - [virtual DOM⚡️⚡️]
