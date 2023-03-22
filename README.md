@@ -155,7 +155,7 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [트라이(Trie)⚡⚡]
 - [그래프(Graph)⚡⚡]
 - [행렬(Matrix)]
-- [이진탐색트리(Binary Search Tree)]
+- [이진탐색트리(Binary Search Tree)](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC(Binary%20Search%20Tree)/Binary%20Search%20Tree.md>)
 
 ## 운영체제
 
