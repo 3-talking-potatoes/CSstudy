@@ -221,6 +221,6 @@ list.remove(3); // [ 30, 50, 90 ]
 ---
 
 참고 문서 :  
-https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B2%B0_%EB%A6%AC%EC%8A%A4%ED%8A%B8
-https://www.geeksforgeeks.org/introduction-to-linked-list-data-structure-and-algorithm-tutorial/
+https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B2%B0_%EB%A6%AC%EC%8A%A4%ED%8A%B8  
+https://www.geeksforgeeks.org/introduction-to-linked-list-data-structure-and-algorithm-tutorial/  
 https://www.udemy.com/course/best-javascript-data-structures/
