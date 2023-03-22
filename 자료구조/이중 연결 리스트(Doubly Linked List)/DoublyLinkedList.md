@@ -224,5 +224,5 @@ list.remove(3); // [ 30, 50, 90 ]
 ---
 
 참고 문서 :  
-https://www.udemy.com/course/best-javascript-data-structures/
+https://www.udemy.com/course/best-javascript-data-structures/  
 https://www.geeksforgeeks.org/introduction-and-insertion-in-a-doubly-linked-list/
