@@ -53,7 +53,7 @@
 
 <br/>
 
-## **최대 힙** 코드 예시(최소 힙의 경우에는 반대로 구현하면 된다.)
+## **최대 힙** 코드 예시(최소 힙의 경우에는 표시한 부분을 부등호를 반대로 구현하면 된다.)
 
 ```javascript
 class MaxBinaryHeap {
@@ -74,7 +74,7 @@ class MaxBinaryHeap {
     while (idx > 0) {
       let parentIdx = Math.floor((idx - 1) / 2);
       let parent = this.values[parentIdx];
-      if (element <= parent) break;
+      if (element <= parent) break; // 최소힙으로 변경시 부등호 변경
       this.values[parentIdx] = element;
       this.values[idx] = parent;
       idx = parentIdx;
@@ -103,13 +103,13 @@ class MaxBinaryHeap {
 
       if (leftChildIdx < length) {
         leftChild = this.values[leftChildIdx];
-        if (leftChild > element) {
+        if (leftChild > element) { // 최소힙으로 변경시 부등호 변경
           swap = leftChildIdx;
         }
       }
       if (rightChildIdx < length) {
         rightChild = this.values[rightChildIdx];
-        if ((swap === null && rightChild > element) || (swap !== null && rightChild > leftChild)) {
+        if ((swap === null && rightChild > element) || (swap !== null && rightChild > leftChild)) { // 최소힙으로 변경시 부등호 변경
           swap = rightChildIdx;
         }
       }
