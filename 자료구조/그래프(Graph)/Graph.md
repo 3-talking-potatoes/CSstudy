@@ -239,6 +239,34 @@ class Graph {
       });
     }
   }
+  
+  // DFS를 오름차순으로 실행
+  dfsAscending (start) {
+    const stack = [start];
+    const result = [];
+    const visited = {};
+    visited[start] = true;
+
+    // 인접 리스트의 각 리스트들을 오름차순으로 정렬
+    for (const key in this.adjList) {
+      this.adjList[key].sort();
+    }
+
+    while (stack.length) {
+      const currentVertex = stack.pop();
+      result.push(currentVertex);
+
+      // 인접 리스트에서 이웃 노드를 오름차순으로 방문
+      for (let i = this.adjList[currentVertex].length - 1; i >= 0; i--) {
+        const neighbor = this.adjList[currentVertex][i];
+        if (!visited[neighbor]) {
+          visited[neighbor] = true;
+          stack.push(neighbor);
+        }
+      }
+    }
+    return result;
+  }
 }
 ```
 
