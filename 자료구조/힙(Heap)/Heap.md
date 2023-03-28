@@ -14,7 +14,7 @@
 
 ### 소개
 
-힙은 트리의 일종이며, 이진 탐색 트리와 비슷하지만 다른 규칙을 가지고 있다. 이진 힙을 이용해서 [**우선순위 큐**]()를 구현할 수 있다. 또한 이진 힙은 그래프 순회에 자주 사용된다. 일반적으로 힙은 최대 힙과 최소 힙 두가지 유형으로 나뉜다.
+힙은 트리의 일종이며, 이진 탐색 트리와 비슷하지만 다른 규칙을 가지고 있다. 이진 힙을 이용해서 [**우선순위 큐**](<https://github.com/3-talking-potatoes/CSstudy/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90(Priority%20Queue)/Priority%20Queue.md>)를 구현할 수 있다. 또한 이진 힙은 그래프 순회에 자주 사용된다. 일반적으로 힙은 최대 힙과 최소 힙 두가지 유형으로 나뉜다.
 
 <br/>
 
@@ -103,13 +103,15 @@ class MaxBinaryHeap {
 
       if (leftChildIdx < length) {
         leftChild = this.values[leftChildIdx];
-        if (leftChild > element) { // 최소힙으로 변경시 부등호 변경
+        if (leftChild > element) {
+          // 최소힙으로 변경시 부등호 변경
           swap = leftChildIdx;
         }
       }
       if (rightChildIdx < length) {
         rightChild = this.values[rightChildIdx];
-        if ((swap === null && rightChild > element) || (swap !== null && rightChild > leftChild)) { // 최소힙으로 변경시 부등호 변경
+        if ((swap === null && rightChild > element) || (swap !== null && rightChild > leftChild)) {
+          // 최소힙으로 변경시 부등호 변경
           swap = rightChildIdx;
         }
       }
