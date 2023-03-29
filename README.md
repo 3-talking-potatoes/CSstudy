@@ -132,10 +132,10 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [불변성⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%B6%88%EB%B3%80%EC%84%B1.md)
 - [Hooks⚡️⚡️]
 - [성능개선](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0.md)
-- [virtual DOM⚡️⚡️]
-- [SSR⚡️]
+- [virtual DOM⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/virtual%20DOM.md)
+- [SSR⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/SSR.md)
 - [Next⚡️]
-- [하이드레이션⚡️]
+- [하이드레이션⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%ED%95%98%EC%9D%B4%EB%93%9C%EB%A0%88%EC%9D%B4%EC%85%98.md)
 - [SEO⚡️]
 - [Suspense⚡️]
 - [useLayoutEffect⚡️]
