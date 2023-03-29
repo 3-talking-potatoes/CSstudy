@@ -128,7 +128,7 @@ yujung Choi</b></sub></a><br /><a href="https://github.com/github.com/3-talking-
 - [라이프 사이클 메서드⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%82%AC%EC%9D%B4%ED%81%B4%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 - [이벤트 핸들링⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%ED%95%B8%EB%93%A4%EB%A7%81.md)
 - [리덕스⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%A6%AC%EB%8D%95%EC%8A%A4.md)
-- [FLUX⚡️⚡️]
+- [FLUX⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/FLUX.md)
 - [불변성⚡️⚡️](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EB%B6%88%EB%B3%80%EC%84%B1.md)
 - [Hooks⚡️⚡️]
 - [성능개선](https://github.com/3-talking-potatoes/CSstudy/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/React/%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0.md)
